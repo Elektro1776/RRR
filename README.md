@@ -4,12 +4,12 @@ React, Redux, React-Router Video Bookshelf!
 ### Required
   * Node
   * Express
-  * React
+  * [React](https://reactjs.org/tutorial/tutorial.html)
   * [Redux](https://redux.js.org/)
   * [Redux-Thunk](https://github.com/gaearon/redux-thunk)
-  * React-Router v4
-  * Sass
-  * You-Tube Api
+  * [React-Router v4](https://reacttraining.com/react-router/)
+  * [Sass](http://sass-lang.com/guide)
+  * [You-Tube Api](https://developers.google.com/youtube/v3/getting-started)
 # Instructions
   Create a basic application implementing the above technology requirements. I will allow the use of the [create-react-app](https://github.com/facebookincubator/create-react-app#getting-started) cli tool, this will allow you to focus on the building of the app and not worry about boiler plate. The application design and functionality will be a video library of sorts. I would like you to use the YouTube api to:
   1. On the home page create a search bar to poll YouTube for Videos and then display the videos in a "Card" like manner with:
