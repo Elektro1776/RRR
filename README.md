@@ -21,7 +21,7 @@ React, Redux, React-Router Video Bookshelf!
 
   Don't worry if you do not finish the full app I am just looking to see how you think and approach problems!
   I have gone ahead and made a github repo for this so I can kind of follow along as you build. I will create you a branch with your name on it for you to develop on along the way.
-  [Oliva's Branch!](https://github.com/Elektro1776/RRR/tree/olivia)
+  [Chase Branch!](https://github.com/Elektro1776/RRR/tree/chase)
 
 
   #### Requirements of the application
